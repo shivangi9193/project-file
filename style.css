@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+.mainhading{
+    text-align: center;
+}
+.hading{
+    color: aqua;
+    letter-spacing: 0.9px;
+}
+.gallery{
+    color: antiquewhite;
+    /* margin: -20px; */
+}
+.img1{
+    height: 200px;
+    width: 150px;
+    margin-left: 90px;
+    padding: 30px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.img2{
+    height: 200px;
+    width: 185px;
+    margin-left: 70px;
+    padding: 30px;
+    cursor: pointer;
+}
+
+
+.img1:hover{
+  background: rgb(223, 169, 218);
+  /* height: 205px;
+  width: 190px; */
+  transform: scale(1.25)translate(-5px);
+}
+
